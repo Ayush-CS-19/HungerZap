@@ -50,10 +50,12 @@ npm run build
 Create a `config.js` file in the `src/utils` directory and use your own API URLs. Here is an example configuration:
 
 ```javascript
-// filepath: [config.js]
- IMG_URL, MENU_API ,FOOD_API
+// src/utils/config.js
+export const IMG_URL = "YOUR_IMAGE_API_URL";
+export const MENU_API = "YOUR_MENU_API_URL";
+export const FOOD_API = "YOUR_FOOD_API_URL";
 ---
-
+```
 ## 🌟 Features
 
 ✅ **Search Restaurants** – Find your favorite restaurants easily. 🔎
