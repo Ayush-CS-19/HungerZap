@@ -54,17 +54,17 @@ Create a `config.js` file in the `src/utils` directory and use your own API URLs
 export const IMG_URL = "YOUR_IMAGE_API_URL";
 export const MENU_API = "YOUR_MENU_API_URL";
 export const FOOD_API = "YOUR_FOOD_API_URL";
----
 ```
-## 🌟 Features
+----
+## 🌟 Key Features  
 
-✅ **Search Restaurants** – Find your favorite restaurants easily. 🔎
-✅ **Restaurant Cards** – View detailed information about restaurants. 🍽️
-✅ **Cart Management** – Add or remove items from your cart. 🛒
-✅ **Responsive Design** – Optimized for both desktop and mobile devices. 📱💻
-✅ **Offline Support** – Displays a message when the user is offline. 🌐
-
----
+🔎 **Search Restaurants** – Quickly find your favorite restaurants with an intuitive search.  
+🍽️ **Restaurant Listings** – Explore detailed information, menus, and ratings.  
+🛒 **Smart Cart Management** – Easily add, remove, or update items in your cart.  
+📱 **Responsive Design** – Optimized for seamless experience on mobile and desktop.  
+🌐 **Offline Support** – Stay informed with an alert when the network is unavailable.  
+⚡ **Lightning-Fast Performance** – Enjoy smooth and efficient browsing.  
+🎨 **Modern UI/UX** – Clean and visually appealing design for effortless navigation.  
 
 ## 🚀 Technologies Used
 
