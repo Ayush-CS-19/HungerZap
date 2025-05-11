@@ -17,7 +17,6 @@ HungerZap/
 │   ├── index.js         # JavaScript entry point
 │   └── index.css        # Global CSS styles
 ├── package.json         # Project configuration and dependencies
-├── .babelrc             # Babel configuration for JavaScript transpilation
 └── README.md            # This file
 ```
 
@@ -71,7 +70,6 @@ export const FOOD_API = "YOUR_FOOD_API_URL";
 - ⚛️ **React** – Frontend framework for building UI components.
 - 🛠️ **Redux Toolkit** – State management for efficient data flow.
 - 🎨 **Tailwind CSS** – Modern styling with utility-first CSS.
-- 📦 **Parcel** – Fast and efficient bundler.
 - 🏃 **Framer Motion** – Smooth animations for UI interactions.
 - 🔗 **React Router DOM** – Seamless navigation between pages.
 
