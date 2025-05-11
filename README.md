@@ -94,6 +94,10 @@ export const FOOD_API = "YOUR_FOOD_API_URL";
 We welcome contributions! Feel free to **fork** the repository, make improvements, and submit a **pull request**. 🚀
 
 ---
+## 🚀 Live Demo
+
+👉 [Click here to view the live app](https://hunger-zap.vercel.app/)
+---
 
 ## 📜 License
 
